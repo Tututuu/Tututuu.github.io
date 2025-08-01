@@ -21,7 +21,7 @@ I mainly work on behavioral economics, where I employ experimental methods to te
 
 ## Working Papers
 
-- Calculations Behind Lottery Valuations (draft available upon request)<!-- , <a href="../files/cblv.pdf" target="_blank">pdf</a>-->
+- <a href="../files/cblv.pdf" target="_blank" onclick="gtag('event', 'download', {'event_category': 'PDF', 'event_label': 'CBLV Paper'});">Calculations Behind Lottery Valuations</a>
   <details>
   <summary>Abstract</summary>
 
@@ -38,6 +38,8 @@ I mainly work on behavioral economics, where I employ experimental methods to te
   </details>
 
 ## Works in Progress
+- Response Noise and Risk Attitudes, with <a href='https://www.columbia.edu/~md3405/'>Mark Dean</a>
+  
 - Reference-Dependent Motivated Beliefs, with <a href='https://zhihao-lim.github.io/' target='_blank'>Zhi Hao Lim</a>
 
 ## Publication (Pre-Doctoral Project)
