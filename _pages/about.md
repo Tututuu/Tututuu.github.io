@@ -24,17 +24,7 @@ I mainly work on behavioral economics, where I employ experimental methods to te
 - <a href="../files/cblv.pdf" target="_blank" onclick="gtag('event', 'download', {'event_category': 'PDF', 'event_label': 'CBLV Paper'});">Calculations Behind Lottery Valuations</a>
   <details>
   <summary>Abstract</summary>
-
-    This paper introduces a novel experimental design tracking subjects’ calculations
-    when valuing lotteries with a calculator. Subjects predominantly employ simple functional forms, primarily expected values or linear functions of monetary outcomes. The
-    calculations exhibit remarkable within-subject stability alongside substantial between-subject heterogeneity. Calculations strongly predict risk attitudes: subjects calculating
-    expected values exhibit near risk-neutrality, while others display extreme unresponsiveness to probability changes and are consistent with Tversky and Kahneman's (1992)
-    fourfold pattern. Notably, these calculations also predict subjects’ valuations of deterministic mirrors (Oprea, 2024), as well as the lottery valuations when not provided with
-    a calculator. Leveraging the calculation data, I examine the mechanisms behind the
-    observed fourfold pattern and unresponsiveness by: (1) distinguishing implementation
-    costs from misconceptions, finding evidence suggesting each is linked to different subject
-    types, and (2) evaluating probability weighting and cognitive imprecision models against
-    observed calculations.
+    I introduce a novel experimental design tracking subjects' calculations when valuing lotteries. Subjects' calculations predominantly fall into three groups: expected values, linear functions of potential monetary outcomes, or expressions that cannot be matched to primitives of the lotteries. Across different tasks, the calculations exhibit remarkable within-subject stability alongside substantial between-subject heterogeneity. Calculations strongly predict valuations: subjects performing calculations related to the expected values (38.1\%) exhibit near risk-neutrality, while others' (61.9\%) valuations on average display extreme unresponsiveness to probability changes. Finally, an analysis by calculation group reveals that distinct theoretical mechanisms drive these behaviors: the adoption of expected-value calculations is explained by a reduction in implementation costs from the provided calculator, while attribute substitution (Kahneman and Frederick, 2002) explains the linear functions of potential monetary outcomes.
   </details>
 
 ## Works in Progress
