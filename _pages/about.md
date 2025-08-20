@@ -24,11 +24,13 @@ I mainly work on behavioral economics, where I employ experimental methods to te
 - <a href="../files/cblv.pdf" target="_blank" onclick="gtag('event', 'download', {'event_category': 'PDF', 'event_label': 'CBLV Paper'});">Calculations Behind Lottery Valuations</a>
   <details>
   <summary>Abstract</summary>
-    I introduce a novel experimental design tracking subjects' calculations when valuing lotteries. Subjects' calculations predominantly fall into three groups: expected values, linear functions of potential monetary outcomes, or expressions that cannot be matched to primitives of the lotteries. Across different tasks, the calculations exhibit remarkable within-subject stability alongside substantial between-subject heterogeneity. Calculations strongly predict valuations: subjects performing calculations related to the expected values (38.1\%) exhibit near risk-neutrality, while others' (61.9\%) valuations on average display extreme unresponsiveness to probability changes. Finally, an analysis by calculation group reveals that distinct theoretical mechanisms drive these behaviors: the adoption of expected-value calculations is explained by a reduction in implementation costs from the provided calculator, while attribute substitution (Kahneman and Frederick, 2002) explains the linear functions of potential monetary outcomes.
+    I introduce a novel experimental design tracking subjects' calculations when valuing lotteries. Subjects' calculations predominantly fall into three groups: expected values, linear functions of potential monetary outcomes, or expressions that cannot be matched to primitives of the lotteries. Across different tasks, the calculations exhibit remarkable within-subject stability alongside substantial between-subject heterogeneity. Calculations strongly predict valuations: subjects performing calculations related to the expected values (38.1%) exhibit near risk-neutrality, while others' (61.9%) valuations on average display extreme unresponsiveness to probability changes. Finally, an analysis by calculation group reveals that distinct theoretical mechanisms drive these behaviors: the adoption of expected-value calculations is explained by a reduction in implementation costs from the provided calculator, while attribute substitution (Kahneman and Frederick, 2002) explains the linear functions of potential monetary outcomes.
   </details>
 
 ## Works in Progress
-- Response Noise and Risk Attitudes, with <a href='https://www.columbia.edu/~md3405/'>Mark Dean</a>
+- Response Noise Structure and Risk Attitudes
+
+- Computation Complexity, Elicitation Methods, and Lottery Valuations, with <a href='https://www.columbia.edu/~md3405/'>Mark Dean</a>
   
 - Reference-Dependent Motivated Beliefs, with <a href='https://zhihao-lim.github.io/' target='_blank'>Zhi Hao Lim</a>
 
