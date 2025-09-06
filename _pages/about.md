@@ -10,8 +10,9 @@ sitemap: false
 
 <span style="color:#0749a3; font-size: 35px;"><b>Welcome!</b></span>
 
-I'm Hanyao, a fifth-year PhD student in economics at <span style="color:#0749a3;">Columbia University</span>, where I have the privilege of being advised by Professor <a href='https://www.columbia.edu/~md3405/'>Mark Dean</a>. I received my BA from <span style='color:#B10000'> Peking University</span> in 2020. You can find my CV <a href="../cv">here</a>.
+I'm Hanyao, a sixth-year PhD student in economics at <span style="color:#0749a3;">Columbia University</span>, where I have the privilege of being advised by Professor <a href='https://www.columbia.edu/~md3405/'>Mark Dean</a>. I received my BA from <span style='color:#B10000'> Peking University</span> in 2020. You can find my CV <a href="../cv">here</a>.
 
+<span style='color:red'> I will be on the job market for the 2024-25 cycle. <span>
 
 I mainly work on behavioral economics, where I employ experimental methods to test theories of human decision making, especially under uncertainty.
 
@@ -28,11 +29,11 @@ I mainly work on behavioral economics, where I employ experimental methods to te
   </details>
 
 ## Works in Progress
-- Response Noise Structure and Risk Attitudes
+- Response Noise Structure and Risk Attitudes _(draft coming soon)_
 
-- Computation Complexity, Elicitation Methods, and Lottery Valuations, with <a href='https://www.columbia.edu/~md3405/'>Mark Dean</a>
+- Computation Complexity, Elicitation Methods, and Lottery Valuations, with <a href='https://www.columbia.edu/~md3405/'>Mark Dean</a> _(draft coming soon)_
   
 - Reference-Dependent Motivated Beliefs, with <a href='https://zhihao-lim.github.io/' target='_blank'>Zhi Hao Lim</a>
 
-## Publication (Pre-Doctoral Project)
+## Publication
 - <a href="https://onlinelibrary.wiley.com/doi/epdf/10.1111/joie.12381" target="_blank">Positive and Negative Sorting in Team Contest</a>, with <a href='https://www.qiangfueconomics.net/' target='_blank'>Qiang Fu</a>, <a href='https://www.zenanwu.com/' target='_blank'>Zenan Wu</a>, and <a href='https://sites.google.com/view/yangfanzhou/'  target='_blank'>Yangfan Zhou</a>, _Journal of Industrial Economics_, 2024
