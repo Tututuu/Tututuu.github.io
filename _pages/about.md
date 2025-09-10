@@ -12,7 +12,7 @@ sitemap: false
 
 I'm Hanyao, a sixth-year PhD student in economics at <span style="color:#0749a3;">Columbia University</span>, where I have the privilege of being advised by Professor <a href='https://www.columbia.edu/~md3405/'>Mark Dean</a>. I received my BA from <span style='color:#B10000'> Peking University</span> in 2020. You can find my CV <a href="../cv">here</a>.
 
-<span style='color:red'> I will be on the job market for the 2024-25 cycle. <span>
+<span style='color:red'> I will be on the job market for the 2025-26 cycle. <span>
 
 I mainly work on behavioral economics, where I employ experimental methods to test theories of human decision making, especially under uncertainty.
 
