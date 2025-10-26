@@ -12,7 +12,7 @@ sitemap: false
 
 I'm Hanyao, a sixth-year PhD student in economics at <span style="color:#0749a3;">Columbia University</span>, where I have the privilege of being advised by Professors <a href='https://www.columbia.edu/~md3405/'>Mark Dean</a>, <a href='https://blogs.cuit.columbia.edu/ac186/'> Alessandra Casella</a>, and <a href='https://blogs.cuit.columbia.edu/mw2230/'>Michael Woodford</a>. I received my BA from <span style='color:#B10000'> Peking University</span> in 2020. 
 
-<span style='color:red'> I will be on the job market for the 2025-26 cycle. <span>
+<span style='color:red'> I am on the job market for the 2025-26 cycle. <span>
 
 I mainly work on behavioral economics, where I employ experimental and econometric methods to test theories of human decision making, especially under uncertainty.
 
@@ -24,19 +24,20 @@ You can find my CV <a href="../cv">here</a>.
 ## Job Market Paper
 
 - <a href="../files/cblv.pdf" target="_blank" onclick="gtag('event', 'download', {'event_category': 'PDF', 'event_label': 'CBLV Paper'});">Calculations Behind Lottery Valuations</a> <br>
-    _Abstract_: I introduce a novel experimental design tracking subjects' calculations when valuing lotteries. Subjects' calculations predominantly fall into three groups: expected values, linear functions of potential monetary outcomes, or expressions that cannot be matched to primitives of the lotteries. Across different tasks, the calculations exhibit remarkable within-subject stability alongside substantial between-subject heterogeneity. Calculations strongly predict valuations: subjects performing calculations related to the expected values (38.1%) exhibit near risk-neutrality, while others' (61.9%) valuations on average display extreme unresponsiveness to probability changes. Finally, an analysis by calculation group reveals that distinct theoretical mechanisms drive these behaviors: the adoption of expected-value calculations is explained by a reduction in implementation costs from the provided calculator, while attribute substitution (Kahneman and Frederick, 2002) explains the linear functions of potential monetary outcomes.
+    _Abstract_: I introduce a novel experimental design tracking experimental subjects' calculations when valuing lotteries. The calculations predominantly fall into three groups: expected values, linear functions of monetary outcomes, or those unmatched to lottery primitives. Calculations exhibit remarkable within-subject stability alongside substantial between-subject heterogeneity. Calculations strongly predict valuations: subjects performing expected values-related calculations display near risk-neutrality, while on average, other subjects' valuations display extreme unresponsiveness to changes in probabilities. An analysis by calculation group reveals distinct behavioral mechanisms driving behaviors: adoption of expected-value calculations is consistent with the reductions in implementation costs from the provided calculator, while the linear functions of monetary outcomes are consistent with the theory of attribute substitution(Kahneman and Frederick, 2002).
 
 ## Working Papers
-- Response Mistake Structure and Risk Attitudes _(draft available upon request)_
+- <a href="../files/mistakes.pdf" target="_blank" onclick="gtag('event', 'download', {'event_category': 'PDF', 'event_label': 'Mistakes Paper'});">Recovering Preferences from Mistakes: An Auxiliary Task Approach</a>
   <details>
   <summary>Abstract</summary>
-    We develop a novel two-step procedure to correct for the mistakes in experimental subjects’ responses to lottery valuation tasks. In the first step, we estimate the structure of mistakes when subjects value the deterministic mirrors of the lotteries (Oprea, 2024) – a deterministic payment that is disaggregated to resemble lotteries – by estimating a mixture model that incorporates two types of mistakes frequently identified in the data. In the second step, we utilize the mistake structure when valuing the deterministic mirrors to correct for the lottery valuations. The corrected lottery valuations are closer to risk neutrality than the raw valuations. When the corrected lottery valuations deviate from risk neutrality, they are predominantly risk averse. Finally, we apply the same two-step procedure to other data sets and yield similar results.
+    Risk preferences recovered from lottery valuation data are not robust to unverifiable assumptions about the structure of mistakes in the valuations. To address this, we develop a novel approach utilizing Oprea's (2024) deterministic mirrors -- deterministic payments that preserve key structural features of lotteries. We estimate the mistake structure in deterministic mirrors -- where certain payments enable identification of mistake patterns -- through a mixture model incorporating two types of mistakes frequently observed, then apply these estimates to correct lottery valuations. The corrected valuations are closer to risk neutrality than raw valuations; when they deviate from risk neutrality, they are predominantly risk averse. These patterns align the corrected valuations with expected utility theory, in contrast to the raw valuations which exhibit strong probability weighting. Our approach offers a generalizable framework for preference recovery: researchers can use auxiliary tasks with known correct answers to discipline assumptions about mistakes.
   </details>
 
-## Works in Progress
 - Computation Complexity, Elicitation Methods, and Lottery Valuations, with <a href='https://www.columbia.edu/~md3405/'>Mark Dean</a> _(draft coming soon)_
-  
+
+
+## Works in Progress  
 - Reference-Dependent Motivated Beliefs, with <a href='https://zhihao-lim.github.io/' target='_blank'>Zhi Hao Lim</a>
 
 ## Publication
-- <a href="https://onlinelibrary.wiley.com/doi/epdf/10.1111/joie.12381" target="_blank">Positive and Negative Sorting in Team Contest</a>, with <a href='https://www.qiangfueconomics.net/' target='_blank'>Qiang Fu</a>, <a href='https://www.zenanwu.com/' target='_blank'>Zenan Wu</a>, and <a href='https://sites.google.com/view/yangfanzhou/'  target='_blank'>Yangfan Zhou</a>, _Journal of Industrial Economics_, 2024
+- <a href="../files/sorting.pdf" target="_blank" onclick="gtag('event', 'download', {'event_category': 'PDF', 'event_label': 'Sorting Paper'});">Positive and Negative Sorting in Team Contest</a>, with <a href='https://www.qiangfueconomics.net/' target='_blank'>Qiang Fu</a>, <a href='https://www.zenanwu.com/' target='_blank'>Zenan Wu</a>, and <a href='https://sites.google.com/view/yangfanzhou/'  target='_blank'>Yangfan Zhou</a>, _Journal of Industrial Economics_, 2024
