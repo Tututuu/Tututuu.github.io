@@ -34,10 +34,18 @@ You can find my CV <a href="../cv">here</a>.
   </details>
 
 - Computation Complexity, Elicitation Methods, and Lottery Valuations, with <a href='https://www.columbia.edu/~md3405/'>Mark Dean</a> _(draft coming soon)_
+  <details>
+  <summary>Abstract</summary>
+    
+  </details>
 
 
 ## Works in Progress  
 - Reference-Dependent Motivated Beliefs, with <a href='https://zhihao-lim.github.io/' target='_blank'>Zhi Hao Lim</a>
+  <details>
+  <summary>Summary</summary>
+    People face a trade-off when they engage in motivated reasoning about a welfare-relevant state that realizes in the future. For example, by manipulating their beliefs to be higher than the Bayesian belief, on the one hand, their current-period anticipatory utility increases. But, on the other hand, since their current-period belief becomes their reference point when the state actually realizes, this motivated reasoning will also lead to lower next-period reference-dependent utility. A model incorporating this trade-off can predict the direction and strength of motivated beliefs. We design an experiment to test the model predictions. 
+  </details>
 
 ## Publication
 - <a href="../files/sorting.pdf" target="_blank" onclick="gtag('event', 'download', {'event_category': 'PDF', 'event_label': 'Sorting Paper'});">Positive and Negative Sorting in Team Contest</a>, with <a href='https://www.qiangfueconomics.net/' target='_blank'>Qiang Fu</a>, <a href='https://www.zenanwu.com/' target='_blank'>Zenan Wu</a>, and <a href='https://sites.google.com/view/yangfanzhou/'  target='_blank'>Yangfan Zhou</a>, _Journal of Industrial Economics_, 2024
