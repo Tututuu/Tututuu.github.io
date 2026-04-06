@@ -19,12 +19,14 @@ You can find my CV <a href="../cv">here</a>.
 - Email: {{ site.author.email }}
 - Address: 420 W 118th St., New York, NY 10027
 
-## Job Market Paper
+## Working Papers
 
 - <a href="../files/cblv.pdf" target="_blank" onclick="gtag('event', 'download', {'event_category': 'PDF', 'event_label': 'CBLV Paper'});">Calculations Behind Lottery Valuations</a> <br>
-    _Abstract_: I introduce a novel experimental design tracking experimental subjects' calculations when valuing lotteries. The calculations predominantly fall into three groups: expected values, linear functions of monetary outcomes, or those unmatched to lottery primitives. Calculations exhibit remarkable within-subject stability alongside substantial between-subject heterogeneity. Calculations strongly predict valuations: subjects performing expected values-related calculations display near risk-neutrality, while on average, other subjects' valuations display extreme unresponsiveness to changes in probabilities. An analysis by calculation group reveals distinct behavioral mechanisms driving behaviors: adoption of expected-value calculations is consistent with the reductions in implementation costs from the provided calculator, while the linear functions of monetary outcomes are consistent with the theory of attribute substitution(Kahneman and Frederick, 2002).
+  <details>
+  <summary>Abstract</summary>
+    I introduce a novel experimental design tracking experimental subjects' calculations when valuing lotteries. The calculations predominantly fall into three groups: expected values, linear functions of monetary outcomes, or those unmatched to lottery primitives. Calculations exhibit remarkable within-subject stability alongside substantial between-subject heterogeneity. Calculations strongly predict valuations: subjects performing expected values-related calculations display near risk-neutrality, while on average, other subjects' valuations display extreme unresponsiveness to changes in probabilities. An analysis by calculation group reveals distinct behavioral mechanisms driving behaviors: adoption of expected-value calculations is consistent with the reductions in implementation costs from the provided calculator, while the linear functions of monetary outcomes are consistent with the theory of attribute substitution(Kahneman and Frederick, 2002).
+  </details>
 
-## Working Papers
 - <a href="../files/mistakes.pdf" target="_blank" onclick="gtag('event', 'download', {'event_category': 'PDF', 'event_label': 'Mistakes Paper'});">Recovering Preferences from Mistakes: An Auxiliary Task Approach</a>
   <details>
   <summary>Abstract</summary>
