@@ -10,14 +10,13 @@ sitemap: false
 
 <span style="color:#0749a3; font-size: 35px;"><b>Welcome!</b></span>
 
-I'm Hanyao, a PhD student in economics at <span style="color:#0749a3;">Columbia University</span>, where I have the privilege of being advised by Professors <a href='https://www.columbia.edu/~md3405/'>Mark Dean</a>, <a href='https://blogs.cuit.columbia.edu/ac186/'> Alessandra Casella</a>, and <a href='https://blogs.cuit.columbia.edu/mw2230/'>Michael Woodford</a>. I received my BA from <span style='color:#B10000'> Peking University</span> in 2020. 
+I'm Hanyao. I recently graduated from <span style="color:#0749a3;">Columbia University</span> with a PhD in economics, where I have the privilege of being advised by Professors <a href='https://www.columbia.edu/~md3405/'>Mark Dean</a>, <a href='https://blogs.cuit.columbia.edu/ac186/'> Alessandra Casella</a>, and <a href='https://blogs.cuit.columbia.edu/mw2230/'>Michael Woodford</a>. I received my BA from <span style='color:#B10000'> Peking University</span> in 2020. 
 
-I mainly work on behavioral economics, where I employ experimental and econometric methods to test theories of human decision making, especially under uncertainty.
+I work on behavioral economics, where I employ experimental and econometric methods to test theories of human decision making, especially under uncertainty.
 
 You can find my CV <a href="../cv">here</a>.
 
 - Email: {{ site.author.email }}
-- Address: 420 W 118th St., New York, NY 10027
 
 ## Working Papers
 
