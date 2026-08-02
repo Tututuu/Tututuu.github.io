@@ -32,7 +32,7 @@ You can find my CV <a href="../cv">here</a>.
     Risk preferences recovered from lottery valuation data are not robust to unverifiable assumptions about the structure of mistakes in the valuations. To address this, we develop a novel approach utilizing Oprea's (2024) deterministic mirrors -- deterministic payments that preserve key structural features of lotteries. We estimate the mistake structure in deterministic mirrors -- where certain payments enable identification of mistake patterns -- through a mixture model incorporating two types of mistakes frequently observed, then apply these estimates to correct lottery valuations. The corrected valuations are closer to risk neutrality than raw valuations; when they deviate from risk neutrality, they are predominantly risk averse. These patterns align the corrected valuations with expected utility theory, in contrast to the raw valuations which exhibit strong probability weighting. Our approach offers a generalizable framework for preference recovery: researchers can use auxiliary tasks with known correct answers to discipline assumptions about mistakes.
   </details>
 
-- Computation Complexity, Elicitation Methods, and Lottery Valuations, with <a href='https://www.columbia.edu/~md3405/'>Mark Dean</a> _(draft coming soon)_
+- Computation Complexity, Elicitation Methods, and Lottery Valuations, with <a href='https://www.columbia.edu/~md3405/'>Mark Dean</a> _(draft available upon request)_
   <details>
   <summary>Abstract</summary>
     
